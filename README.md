@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karlixxx
+- 👋 Hi, I’m @Karlmus
 - 👀 I’m interested in learning IT
 - 🌱 I’m currently learning html, css and git
 - 💞️ I'm not looking for collaborations at this stage
